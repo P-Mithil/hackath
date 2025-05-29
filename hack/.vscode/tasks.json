@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "Run LearnSpark Web App",
+			"command": "npm run web",
+			"group": "build",
+			"problemMatcher": [],
+			"isBackground": true
+		}
+	]
+}
